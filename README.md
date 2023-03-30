@@ -1,2 +1,1 @@
-[appveyor.yml](..%2FCardDelivery%2Fappveyor.yml)
-[README.md](..%2FCardDelivery%2FREADME.md)
+[![Build status](https://ci.appveyor.com/api/projects/status/1nhhjnoymxti4wvl/branch/main?svg=true)](https://ci.appveyor.com/project/KhalilovaIrina/patterns1/branch/main)
